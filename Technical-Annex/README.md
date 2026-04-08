@@ -1,1 +1,0 @@
-The Technical Annex provides the proprietary Mechanical Governance Stress-Test. It is designed to identify structural failure points in ADM logic and construct an institution-grade audit trail. Institutional Licensing only.
