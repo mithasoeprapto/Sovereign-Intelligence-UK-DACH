@@ -19,10 +19,6 @@ Current Tier-1 Fintech architecture in the UK-DACH corridor lacks the auditable 
 
 Assets are available via One-Time Institutional License only.
 
-    03. Institutional Licensing (Q2 2026)
-
-Assets are available via One‑Time Institutional License only.
-
     Strategic Brief (Single Asset): £5,500
 
     Technical Annex (Implementation Logic): Price on Application (POA)
