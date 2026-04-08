@@ -23,7 +23,7 @@ This repository serves as the technical validation for Sovereign Intelligence as
 
 03. Institutional Licensing (Limited Window)
 
-Assets are available via One-Time Institutional License only.
+    Assets are available via One-Time Institutional License only.
 
     Flash-License Fee: £5,500 (Per Brief)
 
@@ -31,6 +31,6 @@ Assets are available via One-Time Institutional License only.
 
     Delivery: Encrypted Digital Asset / Asynchronous
   
-Note: Q2 2026 pricing reflects current operating conditions. Rates are subject to adjustment following environment stabilization.
+    Note: Q2 2026 pricing reflects current operating conditions. Rates are subject to adjustment following environment stabilization.
 
-Inquiries: mithasoeprapto@pm.me or Telegram @mithasoe 
+    Inquiries: mithasoeprapto@pm.me or Telegram @mithasoe 
