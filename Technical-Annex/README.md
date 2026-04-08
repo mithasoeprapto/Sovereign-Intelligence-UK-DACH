@@ -1,0 +1,26 @@
+Sovereign Intelligence: UK–DACH Corridor
+
+Strategic Briefs: https://github.com/mithasoeprapto/Sovereign-Intelligence-UK-DACH
+
+Technical Annex & SES Scoring Matrices:
+Proprietary risk-modeling for Institutional Licensees. Includes:
+
+SES model
+
+exposure tables
+
+timelines
+
+procurement windows
+
+compliance ladders
+
+glossary
+
+methodology
+
+
+
+Licensing: £5,500 (Q2 Flash-Window).
+Inquiries: mithasoeprapto@pm.me or Telegram @mithasoe 
+
