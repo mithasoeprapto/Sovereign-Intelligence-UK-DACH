@@ -1,0 +1,1 @@
+The Technical Annex provides the proprietary Logic-Trail Protocol for ADM decomposition. This is a high-level architectural asset for reconciling 'Black Box' automation with DUAA 2025 mandates. Access is restricted to Institutional Licensees.
