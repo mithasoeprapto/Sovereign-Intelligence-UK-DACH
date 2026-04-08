@@ -5,19 +5,19 @@ This repository serves as the technical validation for Sovereign Intelligence as
 
 01. The £21M Precedent & DUAA 2025
 
-The recent £21M penalty against a Tier-1 Challenger Bank serves as a terminal warning. Under the Data Use and Access Act (DUAA 2025), "black-box" automation creates unquantifiable disclosure risks that stall IPOs and devalue assets.
+    The recent £21M penalty against a Tier-1 Challenger Bank serves as a terminal warning. Under the Data Use and Access Act     (DUAA 2025), "black-box" automation creates unquantifiable disclosure risks that stall IPOs and devalue assets.
 
 
 
 02. Strategic Intelligence Assets (The 4 Briefs)
 
-Brief 01: Digital Banking Architecture | Reconciling Section 22A "Meaningful Human Involvement" with high-velocity onboarding.
+    Brief 01: Digital Banking Architecture | Reconciling Section 22A "Meaningful Human Involvement" with high-velocity onboarding.
 
-Brief 02: Defence Data Governance | Stabilizing the UK-Germany Trinity House Agreement against Directive (EU) 2025/2 transparency mandates.
+    Brief 02: Defence Data Governance | Stabilizing the UK-Germany Trinity House Agreement against Directive (EU) 2025/2 transparency mandates.
 
-Brief 03: AI Governance & Provenance | Transitioning "Experimental AI" to "Regulator-Ready Infrastructure" to avoid "forced-divestment".
+    Brief 03: AI Governance & Provenance | Transitioning "Experimental AI" to "Regulator-Ready Infrastructure" to avoid "forced-divestment".
 
-Brief 04: Clinical Data Governance | Constructing a Clinical Governance Bridge for HealthTech to insulate against "Black-Box" liability
+    Brief 04: Clinical Data Governance | Constructing a Clinical Governance Bridge for HealthTech to insulate against "Black-Box" liability
 
 
 
