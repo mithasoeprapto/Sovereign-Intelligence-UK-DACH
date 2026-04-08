@@ -1,31 +1,33 @@
 Sovereign Intelligence: UK-DACH Corridor
 Mechanical Governance & Strategic Audit Frameworks
 
-This repository serves as the technical validation for Sovereign Intelligence assets regarding Automated Decision-Making (ADM) and structural regulatory risk.
+This repository serves as the technical validation for Sovereign Intelligence assets regarding Automated Decision-Making (ADM) and structural regulatory risk across the UK-DACH corridor.
 
-01. The £21M Liability
+01. The £21M Precedent & DUAA 2025
 
-Current Tier-1 Fintech architecture in the UK-DACH corridor lacks the auditable Logic-Trail required for "Meaningful Human Involvement" under Section 22A of the DUAA 2025. This represents a terminal barrier to the 2026/27 IPO cycle.
-
-
-02. Intelligence Assets
-
-    Brief 01: ADM Governance & Section 22A Reconciliation.
-
-    Brief 03: Sovereign AI & BaFin Operational Compliance.
-
-    Brief 04: Infrastructure & Cross-Border Risk Mapping.
+The recent £21M penalty against a Tier-1 Challenger Bank serves as a terminal warning. Under the Data Use and Access Act (DUAA 2025), "black-box" automation creates unquantifiable disclosure risks that stall IPOs and devalue assets.
 
 
-03. Institutional Licensing (Q2 2026)
+02. Strategic Intelligence Assets (The 4 Briefs)
+
+Brief 01: Digital Banking Architecture | Reconciling Section 22A "Meaningful Human Involvement" with high-velocity onboarding.
+
+Brief 02: Defence Data Governance | Stabilizing the UK-Germany Trinity House Agreement against Directive (EU) 2025/2 transparency mandates.
+
+Brief 03: AI Governance & Provenance | Transitioning "Experimental AI" to "Regulator-Ready Infrastructure" to avoid "forced-divestment".
+
+Brief 04: Clinical Data Governance | Constructing a Clinical Governance Bridge for HealthTech to insulate against "Black-Box" liability
+
+
+03. Institutional Licensing (Limited Window)
 
 Assets are available via One-Time Institutional License only.
 
-    Strategic Brief (Single Asset): £5,500
+    Flash-License Fee: £5,500 (Per Brief)
 
-    Technical Annex (Implementation Logic): Price on Application (POA).
+    Technical Annex (Implementation Logic): Price on Application (POA)
 
-    Delivery: Encrypted Digital Asset / Asynchronous.
+    Technical Annex: Price on Application (POA).
 
 Note: Q2 2026 pricing reflects current operating conditions. Rates are subject to adjustment following environment stabilization.
 
