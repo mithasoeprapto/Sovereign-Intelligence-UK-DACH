@@ -9,9 +9,9 @@ Access to the full Annex is not included in individual brief purchases.
 
 #### Core Components:
 * **A. Sovereign-Risk Scoring Framework:** The proprietary 5-Factor UK-DACH Sovereign Exposure Score (SES) model.
-* **B. ]Sector Exposure Tables:** Detailed technical mapping for Defence, Clinical Data, Payments/Fintech, and Identity & Verification.
+* **B. Sector Exposure Tables:** Detailed technical mapping for Defence, Clinical Data, Payments/Fintech, and Identity & Verification.
 * **C. Replacement Timelines:** Unified cross-sector view for AISI, EU AI Act, and PSD3 alignment.
-* **D. ]Procurement & Capital Flow:** Immediate to Medium-term (0 hours to 6 weeks) implementation windows.
+* **D. Procurement & Capital Flow:** Immediate to Medium-term (0 hours to 6 weeks) implementation windows.
 * **E. Compliance Checklist:** Cross-sector mapping for FCA/PRA, BaFin, GDPR, and PSD3.
 
 ### 📩 Procurement
