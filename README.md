@@ -19,7 +19,7 @@
 
 *Assets are available via One-Time Institutional License only.*
 
-* **Institutional License:** £50,000 (Per Brief)  
+* **Institutional License:** £150,000 (Per Brief for Single Entity Use)  
 * **Unified Technical Annex:** Price on Application (POA)  
 * **Full Terms:** Refer to the [Commercial Licensing Pack](https://github.com/mithasoeprapto/Commercial-Licensing).
 * **Delivery:** Encrypted Digital Asset / Asynchronous  
