@@ -17,4 +17,4 @@ Access to the full Annex is not included in individual brief purchases.
 ### 📩 Procurement
 To license the **Unified Technical Annex**, please refer to the **[Commercial Licensing Pack](https://github.com/mithasoeprapto/Commercial-Licensing)**.
 
-**Contact:** mithasoeprapto@pm.me | Subject: *Licensing Inquiry - Technical Annex*
+**Contact:** mithasoeprapto@pm.me / mithasoeprapto@outlook.com  | Subject: *Licensing Inquiry - Technical Annex*
