@@ -28,5 +28,6 @@
 
 ## 📩 Inquiries
 **Email:** mithasoeprapto@pm.me  / mithasoeprapto@outlook.com 
+
 **Telegram:** @mithasoe  
 **Subject:** *Licensing Inquiry: [Brief Name]*
