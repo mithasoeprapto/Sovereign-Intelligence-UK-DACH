@@ -5,7 +5,7 @@ This restricted annex consolidates the technical methodologies underpinning Stra
 
 ### 🔒 Restricted Access - Commercial License Required
 Access to the full Annex is not included in individual brief purchases. 
-**Price:** £500,000 (Single-Entity License).
+**Price:** £200,000 (Single-Entity License).
 
 #### Core Components:
 * **A. Sovereign-Risk Scoring Framework:** The proprietary 5-Factor UK-DACH Sovereign Exposure Score (SES) model.
@@ -17,4 +17,4 @@ Access to the full Annex is not included in individual brief purchases.
 ### 📩 Procurement
 To license the **Unified Technical Annex**, please refer to the **[Commercial Licensing Pack](https://github.com/mithasoeprapto/Commercial-Licensing)**.
 
-**Contact:** mithasoeprapto@pm.me / mithasoeprapto@outlook.com  | Subject: *Licensing Inquiry - Technical Annex*
+**Contact:** mithasoeprapto@protonmail.com / mithasoeprapto@outlook.com  | Subject: *Licensing Inquiry - Technical Annex*
