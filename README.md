@@ -49,7 +49,14 @@
 
 ---
 
-## 📩 Inquiries
+## 📩 Inquiries 
+
+
+
+👉 [INITIATE SECURE CORPORATE PROCUREMENT TICKET HERE](https://tally.so/r/VLXDqa) 
+
+or through
+
 **Email:** mithasoeprapto@protonmail.com  / mithasoeprapto@outlook.com 
 
 **Telegram:** @mithasoe  
