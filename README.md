@@ -53,11 +53,10 @@
 
 
 
-👉 [INITIATE SECURE CORPORATE PROCUREMENT TICKET HERE](https://tally.so/r/VLXDqa) 
+[Initiate secure intake form here](https://tally.so/r/VLXDqa)
 
-or through
 
-**Email:** mithasoeprapto@protonmail.com  / mithasoeprapto@outlook.com 
-
-**Telegram:** @mithasoe  
+Primary Desk: [mithasoeprapto@protonmail.com](mailto:mithasoeprapto@protonmail.com)  
+Secure Backup: [mithasoeprapto@outlook.com](mailto:mithasoeprapto@outlook.com)  
+Encrypted Communications: Telegram @mithasoe   
 **Subject:** *Licensing Inquiry: [Brief Name]*
