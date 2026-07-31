@@ -17,4 +17,10 @@ Access to the full Annex is not included in individual brief purchases.
 ### 📩 Procurement
 To license the **Unified Technical Annex**, please refer to the **[Commercial Licensing Pack](https://github.com/mithasoeprapto/Commercial-Licensing)**.
 
-**Contact:** mithasoeprapto@protonmail.com / mithasoeprapto@outlook.com  | Subject: *Licensing Inquiry - Technical Annex*
+[Initiate secure intake form here](https://tally.so/r/VLXDqa)
+
+
+Primary Desk: [mithasoeprapto@protonmail.com](mailto:mithasoeprapto@protonmail.com)  
+Secure Backup: [mithasoeprapto@outlook.com](mailto:mithasoeprapto@outlook.com)  
+Encrypted Communications: Telegram @mithasoe 
+Subject: *Licensing Inquiry - Technical Annex*
