@@ -56,7 +56,7 @@
 [Initiate secure intake form here](https://tally.so/r/VLXDqa)
 
 
-Primary Desk: [mithasoeprapto@protonmail.com](mailto:mithasoeprapto@protonmail.com)  
+Primary Desk: [whiskerlineadvisory@gmail.com](mailto:whiskerlineadvisory@gmail.com)  
 Secure Backup: [mithasoeprapto@outlook.com](mailto:mithasoeprapto@outlook.com)  
-Encrypted Communications: Telegram @mithasoe   
+Encrypted Communications: Telegram [@mithasoe](https://t.me/@mithasoe)  
 **Subject:** *Licensing Inquiry: [Brief Name]*
